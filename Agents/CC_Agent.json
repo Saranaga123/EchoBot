@@ -1,0 +1,59 @@
+[
+  {
+    "question": "What is the warranty period for Alienware laptops?",
+    "answer": "Alienware laptops come with a standard 1-year limited hardware warranty. Extended warranty plans are available at checkout."
+  },
+  {
+    "question": "How can I check the status of my order?",
+    "answer": "You can check your order status by logging into your account and visiting the 'My Orders' section."
+  },
+  {
+    "question": "Can I upgrade the RAM before delivery?",
+    "answer": "Yes, you can customize RAM and storage options on the product page before placing your order."
+  },
+  {
+    "question": "What chipsets are available in Alienware laptops?",
+    "answer": "Alienware laptops typically feature Intel or AMD chipsets, depending on the model. Please check the product specifications on the website."
+  },
+  {
+    "question": "Do you provide international shipping?",
+    "answer": "Currently, we ship only within selected countries. Please check our shipping policy for details."
+  },
+  {
+    "question": "How do I return a product?",
+    "answer": "You can initiate a return within 30 days of delivery by contacting customer support or through your account portal."
+  },
+  {
+    "question": "Is technical support available for software issues?",
+    "answer": "Yes, our support team assists with both hardware and software issues related to Alienware laptops."
+  },
+  {
+    "question": "Can I track my shipment?",
+    "answer": "Yes, once your order ships, you’ll receive a tracking number via email to track your package."
+  },
+  {
+    "question": "Are Alienware laptops compatible with VR devices?",
+    "answer": "Many Alienware models meet the requirements for VR gaming. Check the specific model’s specs for compatibility."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept credit/debit cards, PayPal, and other online payment methods listed on checkout."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you  "
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there!  "
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! If you have more questions, just ask."
+  },
+  {
+    "question": "thank you",
+    "answer": "You’re welcome! Let me know if you need anything else."
+  }
+  
+]

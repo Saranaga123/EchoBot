@@ -1,0 +1,59 @@
+[
+  {
+    "question": "How do I book an appointment with a doctor?",
+    "answer": "You can book an appointment by selecting a hospital, choosing a doctor, picking an available time slot, and confirming your booking online."
+  },
+  {
+    "question": "Can I cancel or reschedule my appointment?",
+    "answer": "Yes, appointments can be canceled or rescheduled up to 24 hours before the scheduled time via your account dashboard."
+  },
+  {
+    "question": "Are video consultations available?",
+    "answer": "Yes, many doctors offer video consultations. Look for the video call icon next to their availability."
+  },
+  {
+    "question": "How do I find doctors by specialty?",
+    "answer": "Use the search filters on the homepage to select the specialty you need, and the platform will show you all available doctors in that category."
+  },
+  {
+    "question": "Is my personal health information secure?",
+    "answer": "Yes, we use industry-standard encryption and data protection to keep your information safe and confidential."
+  },
+  {
+    "question": "Can I book appointments for family members?",
+    "answer": "Yes, you can book and manage appointments for yourself and family members using the same account."
+  },
+  {
+    "question": "How do I know if a doctor is accepting new patients?",
+    "answer": "Doctor profiles show their current availability and whether they are accepting new patients."
+  },
+  {
+    "question": "Are there any consultation fees?",
+    "answer": "Consultation fees vary by doctor and hospital; fees are clearly displayed when you book your appointment."
+  },
+  {
+    "question": "How do I get a receipt or invoice?",
+    "answer": "Receipts are sent via email after your consultation and can also be downloaded from your account."
+  },
+  {
+    "question": "What should I do if I miss my appointment?",
+    "answer": "If you miss an appointment, please contact the doctor’s office directly or reschedule through the platform."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you  "
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there!  "
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! If you have more questions, just ask."
+  },
+  {
+    "question": "thank you",
+    "answer": "You’re welcome! Let me know if you need anything else."
+  }
+  
+]

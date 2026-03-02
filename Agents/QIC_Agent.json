@@ -1,0 +1,59 @@
+[
+  {
+    "question": "How do I file a personal accident insurance claim?",
+    "answer": "To file a claim, please submit the claim form along with medical reports and bills. You can do this via our website, app, or nearest branch."
+  },
+  {
+    "question": "What documents are needed for accident claims?",
+    "answer": "We require a completed claim form, medical reports, ID proof, and any hospital bills related to the accident."
+  },
+  {
+    "question": "Is hospitalization necessary to make a claim?",
+    "answer": "No, hospitalization is not always required. You can still claim for outpatient treatment due to accidents, as per your policy."
+  },
+  {
+    "question": "How long do I have to report an accident?",
+    "answer": "Claims should be reported within 30 days of the incident. Delays beyond this may require justification."
+  },
+  {
+    "question": "Does the policy cover accidental death?",
+    "answer": "Yes, our personal accident insurance includes coverage for accidental death, as per the sum insured in your policy."
+  },
+  {
+    "question": "Can I add my spouse to my personal accident policy?",
+    "answer": "Yes, some plans allow adding dependents. Please contact customer service to update your coverage."
+  },
+  {
+    "question": "How do I know what benefits I am eligible for?",
+    "answer": "You can check your benefits in the policy document or in the mobile app under the 'My Policies' section."
+  },
+  {
+    "question": "Is disability due to an accident covered?",
+    "answer": "Yes, both partial and total permanent disability due to an accident are covered, depending on your policy terms."
+  },
+  {
+    "question": "What is the claim processing time?",
+    "answer": "Most claims are processed within 7–14 working days after receiving complete documents."
+  },
+  {
+    "question": "Can I renew my policy online?",
+    "answer": "Yes, you can renew your personal accident insurance through our customer portal or mobile app."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you with your personal accident insurance today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Feel free to ask me about your insurance policy or claims."
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! If you have more questions, just ask."
+  },
+  {
+    "question": "thank you",
+    "answer": "You’re welcome! Let me know if you need anything else."
+  }
+  
+]
