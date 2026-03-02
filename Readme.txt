@@ -1,0 +1,7 @@
+EchoBot
+
+EchoBot is an AI-powered multi-agent Q&A chatbot designed to provide fast, accurate, and context-aware answers across multiple knowledge domains. Whether you have questions about medical topics, insurance policies, or tech support, EchoBot leverages natural language understanding to retrieve the most relevant information from its knowledge base in real time.
+
+Built with Node.js and Express for the API layer, and Python Flask for AI-powered semantic search, EchoBot uses Sentence Transformers to convert questions into embeddings and FAISS for efficient similarity search. Each “agent” is loaded from structured JSON data, allowing you to easily add or update knowledge without retraining models. This modular architecture ensures scalability, flexibility, and fast response times for users.
+
+EchoBot is perfect for organizations or developers looking to integrate a conversational AI assistant into their applications. With a simple HTTP API, you can ask questions, get accurate answers, and even implement domain-specific fallback responses to ensure users always receive helpful guidance. The bot is lightweight, easy to deploy, and designed with both performance and usability in mind.
